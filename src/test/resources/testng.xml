@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Direct Gov Test Suite" thread-count="2" parallel="tests">
+
+  <test name="NewTest">
+    <classes>
+      <class name="LikedIn.TestLinkedIn"/>
+    </classes>
+  </test>
+
+</suite>
