@@ -54,7 +54,7 @@ public class TestLinkedIn {
 
 	@DataProvider
 	public Object[][] dp() {
-		return new Object[][] { { "Vi Thảo trần mai", "Hello, Kamaljeet. This is the auto message from Tri Nguyen" } };
+		return new Object[][] { { "Profectus Kamaljeet", "Hello, Kamaljeet. This is the auto message from Tri Nguyen" } };
 	}
 
 	@BeforeTest
